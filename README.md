@@ -20,5 +20,3 @@ By visualizing the data and drawing meaningful insights, this project aimed to c
 
 Conclusion
 Through a combination of Python data cleaning and Tableau data visualization, this project successfully shed light on the relationship between COVID-19 vaccine distribution and a nation's GDP.
-
-less
